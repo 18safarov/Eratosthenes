@@ -1,8 +1,5 @@
 # Eratosthenes Sieve in C++
 
-This program finds all prime numbers smaller than a given number `N` using the **Sieve of Eratosthenes** algorithm.
-
----
 
 ## Features
 
